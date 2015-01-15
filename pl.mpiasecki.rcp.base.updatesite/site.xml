@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/pl.mpiasecki.rcp.base.feature_1.0.0.201408051637.jar" id="pl.mpiasecki.rcp.base.feature" version="1.0.0.201408051637">
+      <category name="basePlugins"/>
+   </feature>
+   <category-def name="basePlugins" label="Base Plugins"/>
+</site>

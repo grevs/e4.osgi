@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <!--<extension
+         point="org.eclipse.ui.services">
+      <serviceFactory
+            factoryClass="pl.mpiasecki.rcp.osgi.service.ServiceFactory">
+         <service
+               serviceClass="pl.mpiasecki.rcp.osgi.service.PersonService"></service>
+      </serviceFactory>
+   </extension>-->
+
+</plugin>
